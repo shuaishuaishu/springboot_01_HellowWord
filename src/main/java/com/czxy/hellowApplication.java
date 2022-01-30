@@ -10,6 +10,7 @@ public class hellowApplication {
         System.out.println("111111111");
         System.out.println("222221111");
         System.out.println("2222233333");
+        System.out.println("孙美美222222");
     }
 
 }
